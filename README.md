@@ -16,6 +16,9 @@ The CREATE Law represents the most significant reform in the Philippine tax ince
 - Lowers corporate income tax from 30% to 20% (for MSMEs).
 - Offers perormance-based, time-bound, and targeted tax incentives.
 - Introduces fiscal support for startups and digital-based companies.
+  
+Yet many companies still haven’t leveraged the law’s full benefits. This project offers insights that could **guide policy makers, tax consultants, executives, and startups** in making strategic decisions.
+
 
 However, **many enterprises are unaware** of the law's potential when it comes to optimizing business strategy, expansion, or sectoral growth. This project offers a **data-driven guide** to:
 - Identify industries that benefit the most
@@ -31,16 +34,6 @@ However, **many enterprises are unaware** of the law's potential when it comes t
 
 ---
 
-## 🏢 Why This Project Matters
-
-The CREATE Law was designed to:
-- Lower corporate income taxes
-- Encourage investments via tax incentives
-- Boost competitiveness of MSMEs and industries
-
-Yet many companies still haven’t leveraged the law’s full benefits. This project offers insights that could **guide policy makers, tax consultants, executives, and startups** in making strategic decisions.
-
----
 
 ## 📂 Dataset Overview
 
