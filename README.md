@@ -4,7 +4,7 @@
 
 **Project Title:** CREATE Law Business Intelligence Analysis Using MySQL  
 **Dataset Size:** 5,000 Businesses • 2018–2024 • Multi-Sector • Philippines  
-**Tech Used:** MySQL Workbench, Excel, GitHub
+**Tech Used:** MySQL Workbench, Excel, GitHub, ChatGPT(dataset generation)
 
 ---
 
