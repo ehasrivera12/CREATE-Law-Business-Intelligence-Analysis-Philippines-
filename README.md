@@ -25,6 +25,11 @@ However, **many enterprises are unaware** of the law's potential when it comes t
 - Provide open-ended insights for policymakers and private sector stakeholders
 ---
 ## 🔍 Business Questions Answered (SQL Analysis)
+1. How much would a business have paid before CREATE vs. after?
+2. Which regions have the most businesses receiving incentives?
+3. What is the ROI of tax incentives across sectors?
+4. How many MSMEs were able to grow into large businesses after CREATE?
+5. Which industries gained the most savings after the CREATE Act?
 
 ---
 
