@@ -1,6 +1,6 @@
 # CREATE-Law-Business-Intelligence-Analysis-Philippines-
 
-# 🇵🇭 CREATE Law (Republic Act No. 11534) SQL Business Intelligence Project
+# CREATE Intelligence: Leveraging RA 11534 for Smarter Business Decisions
 
 **Project Title:** CREATE Law Business Intelligence Analysis Using MySQL  
 **Dataset Size:** 5,000 Businesses • 2018–2024 • Multi-Sector • Philippines  
