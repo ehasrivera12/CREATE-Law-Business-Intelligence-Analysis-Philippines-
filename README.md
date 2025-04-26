@@ -51,20 +51,3 @@ The dataset simulates businesses across 10 industries and regions in the Philipp
 ## 🔍 Business-Impacting SQL Queries
 
 This project goes beyond raw data — it answers **strategic business questions** using MySQL, aligned with the intent of the CREATE Law.
-
-### 📊 1. Compare Tax Before and After CREATE Law (Per Industry)
-```sql
-SELECT 
-  industry,
-  year,
-  ROUND(SUM(net_income * corp_tax_before), 2) AS tax_before_create,
-  ROUND(SUM(net_income * corp_tax_after), 2) AS tax_after_create,
-  ROUND(SUM(net_income * (corp_tax_before - corp_tax_after)), 2) AS tax_savings
-FROM 
-  create_law_combined_dataset
-WHERE 
-  year >= 2021
-GROUP BY 
-  industry, year
-ORDER BY 
-  year, tax_savings DESC;
