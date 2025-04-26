@@ -8,10 +8,23 @@
 
 ---
 
-## 📘 What is This Project?
+# CREATE Intelligence: Leveraging RA 11534 for Smarter Business Decisions
+## 🧠 Project Summary
+This project explores the **Corporate Recovery and Tax Incentives for Enterprises (CREATE) Act** of the Philippines (Republic Act No. 11534) and uses **SQL and synthetic data** to simulate how different industries, business sizes, and locations can benefit from the law’s tax reforms and incentives.
+As of today, many businesses are still navigating how this law can benefit them. This project bridges the gap by creating a decision-making model through data—helping companies simulate **"what-if" tax incentive outcomes** and explore the real-world financial impact of the CREATE Act.
 
-This project analyzes the impact of **Republic Act No. 11534 (CREATE Law)** on Philippine businesses using a realistic, simulated SQL dataset with 5,000 rows.  
-The goal is to provide **data-driven business decisions** based on key indicators like revenue growth, tax savings, industry incentives, and MSME scaling.
+## 📌 Why This Project Matters
+The CREATE Law represents the most significant reform in the Philippine tax incentive system in recent years. It:
+- Lowers corporate income tax from 30% to 20% (for MSMEs).
+- Offers perormance-based, time-bound, and targeted tax incentives.
+- Introduces fiscal support for startups and digital-based companies.
+
+However, **many enterprises are unaware** of the law's potential when it comes to optimizing business strategy, expansion, or sectoral growth. This project offers a **data-driven guide** to:
+- Identify industries that benefit the most
+- Help CFOs/finance teams simulate future tax savings
+- Provide open-ended insights for policymakers and private sector stakeholders
+---
+## 🔍 Business Questions Answered (SQL Analysis)
 
 ---
 
