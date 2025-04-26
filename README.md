@@ -1,5 +1,3 @@
-# CREATE-Law-Business-Intelligence-Analysis-Philippines-
-
 # CREATE Intelligence: Leveraging RA 11534 for Smarter Business Decisions
 
 **Project Title:** CREATE Law Business Intelligence Analysis Using MySQL  
@@ -8,7 +6,7 @@
 
 ---
 
-# CREATE Intelligence: Leveraging RA 11534 for Smarter Business Decisions
+
 ## 🧠 Project Summary
 This project explores the **Corporate Recovery and Tax Incentives for Enterprises (CREATE) Act** of the Philippines (Republic Act No. 11534) and uses **SQL and synthetic data** to simulate how different industries, business sizes, and locations can benefit from the law’s tax reforms and incentives.
 As of today, many businesses are still navigating how this law can benefit them. This project bridges the gap by creating a decision-making model through data—helping companies simulate **"what-if" tax incentive outcomes** and explore the real-world financial impact of the CREATE Act.
